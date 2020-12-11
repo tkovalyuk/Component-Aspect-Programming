@@ -2,4 +2,4 @@
 Посилання на заліковний тест з компонентно-орієнтованого та аспектного програмування
 https://docs.google.com/forms/d/e/1FAIpQLSf85eFmGCuxpfsTGdoTRdwYB1Fr5ZZuey81b6wPPFEFaMz62Q/viewform
 
-Термін до 17.12.2020 
+Термін до 10.12.2020 
